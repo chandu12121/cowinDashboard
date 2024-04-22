@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.img {
+  height: 64px;
+  width: 64px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.heading1 {
+  font-size: 30px;
+  color: #2cc6c6;
+  margin-bottom: 40px;
+}
+.div1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  
+}
+.div2 {
+  background-color: #161625;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+}
+.heading2{
+  color: #ffffff;
+  font-size: 36px;
+}
